@@ -55,7 +55,6 @@ The optimized model incorporated several optimization techniques to improve perf
 | **Precision (Low Impact)**     | 0.82          | 0.84            |
 | **Recall (Low Impact)**        | 0.86          | 0.89            |
 | **F1-Score (Low Impact)**      | 0.84          | 0.87            |
-| **Confusion Matrix Accuracy**  | Lower         | Higher          |
 
 
 ## Conclusion
